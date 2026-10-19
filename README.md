@@ -4,8 +4,8 @@ Master of Science dissertations by Thabang Bongani Junior Baloyi. Each dissertat
 
 | Folder | Degree | Status |
 |---|---|---|
-| [`MSc-Mathematical-Statistics`](https://github.com/thabangTheActuaryCoder/Msc-Mathematical-Statistics-Dissertation) | MSc (Mathematical Statistics & Actuarial Sciences), University of the Free State | Completed, October 2026 |
-| [`MSc-Pure-Applied-Mathematics`](https://github.com/thabangTheActuaryCoder/MSc-Pure-Applied-Mathematics) | MSc (Pure and Applied Mathematics) | In progress |
+| [`MSc-Mathematical-Statistics`](https://github.com/thabangTheActuaryCoder/Msc-Mathematical-Statistics-Dissertation) | MSc Mathematical Statistics , University of the Free State | Completed, October 2026 |
+| [`MSc-Pure-Applied-Mathematics`](https://github.com/thabangTheActuaryCoder/MSc-Pure-Applied-Mathematics) | MSc (Pure and Applied Mathematics), University of Cape Town | In progress |
 
 ## Cloning
 
